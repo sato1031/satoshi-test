@@ -14,7 +14,7 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "datatables.net-dt": "^1.10.20",
     "handsontable": "^6.2.2",
     "jquery": "^3.4.1",
